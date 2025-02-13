@@ -1,16 +1,49 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Diyorbek</h1>
 
-<!--
-**diyorbek-hikmatiullyev/diyorbek-hikmatiullyev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white">
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white">
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  🚀 iOS Developer | Passionate about Swift & App Development | UX/UI Enthusiast
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 **Tech Stack**
+- 🚀 Swift, SwiftUI, UIKit  
+- 🏗 MVP, MVVM, Clean Architecture  
+- 📱 iOS App Development  
+- 🔗 CoreData, Realm, Firebase  
+- ⚡ Git, GitHub, CI/CD  
+
+---
+
+## 📲 **Latest Projects**
+### 🔹 [📖 Fairy Tale Reading App](https://github.com/yourproject)
+A beautiful offline reading app with multiple languages, quizzes, and famous fairy tales.
+
+### 🔹 [🍔 Food Recipes App](https://github.com/yourproject)
+A simple yet powerful app to explore delicious recipes with step-by-step guides.
+
+### 🔹 [🛒 Mini-Market Inventory](https://github.com/yourproject)
+An inventory management system designed for small businesses.
+
+---
+
+## 📊 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" width="48%">
+</p>
+
+---
+
+## 📩 **Let's Connect!**
+<p align="center">
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
