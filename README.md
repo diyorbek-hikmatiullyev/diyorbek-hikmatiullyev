@@ -12,12 +12,14 @@
 
 ---
 
-## 🛠 **Tech Stack**
-- 🚀 Swift, SwiftUI, UIKit  
-- 🏗 MVP, MVVM, Clean Architecture  
-- 📱 iOS App Development  
-- 🔗 CoreData, Realm, Firebase  
-- ⚡ Git, GitHub, CI/CD  
+##  Tech Stack
+- PHP, laravel
+- Postgres
+- Swift, SwiftUI, UIKit  
+- MVP, MVVM, Clean Architecture  
+- iOS App Development  
+- CoreData, Realm, Firebase
+- Git, GitHub, CI/CD  
 
 ---
 
