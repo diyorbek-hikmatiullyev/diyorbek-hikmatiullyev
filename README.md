@@ -12,9 +12,6 @@
 </p>
 
 
-<p align="center">
-  🚀 iOS Developer | Passionate about Swift & App Development | UX/UI Enthusiast
-</p>
 
 ---
 
