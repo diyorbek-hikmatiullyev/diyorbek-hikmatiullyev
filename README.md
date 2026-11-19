@@ -24,21 +24,7 @@
 - CoreData, Realm, Firebase
 - Git, GitHub, CI/CD  
 
----
-
-## 📲 **Latest Projects**
-### 🔹 [📖 Fairy Tale Reading App](https://github.com/yourproject)
-A beautiful offline reading app with multiple languages, quizzes, and famous fairy tales.
-
-### 🔹 [🍔 Food Recipes App](https://github.com/yourproject)
-A simple yet powerful app to explore delicious recipes with step-by-step guides.
-
-### 🔹 [🛒 Mini-Market Inventory](https://github.com/yourproject)
-An inventory management system designed for small businesses.
-
----
-
-## 📊 **GitHub Stats**
+## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="48%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" width="48%">
@@ -46,9 +32,15 @@ An inventory management system designed for small businesses.
 
 ---
 
-## 📩 **Let's Connect!**
+## Let's Connect!
+
+##  Let's Connect!
+
 <p align="center">
-  <a href="[https://linkedin.com/in/diyorbek-hikmatullayev-97245a282/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/diyorbek-hikmatullayev-398021451/)"></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/diyorbek-hikmatullayev-398021451/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
